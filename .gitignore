@@ -17,5 +17,7 @@
 TODO.md
 logs.txt
 .idea/
+tmp/
+bin/
 secret.md
 app.env
